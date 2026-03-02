@@ -4,8 +4,8 @@ Environment create command:
     conda create --prefix .\NLP python=3.10 -y
 ```
 Environment activate command:
-```.\NLP
-    Conda activate 
+```
+    Conda activate .\NLP
 ```
 Requirement install command:
 ```
